@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Mirza Baig MD",
+  "slug": "dr-mirza-baig-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "678143750c87c0e8b1b9ca51",
+  "updatedOn": "Sun Nov 23 2025 03:55:00 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Mirza Baig was born and raised in Southeast Michigan and graduated from the University of Michigan with a Bachelor's degree in Actuarial Mathematics. He went on to obtain a medical degree from the University Of Toledo College Of Medicine, where he also completed six years of training in Urologic Surgery and Kidney Transplantation. During his residency he went on sabbatical to learn from world-renowned Urologic surgeons at the Mayo Clinic and Cleveland Clinic. He then pursued further training in advanced robotic prostate and kidney surgery at Henry Ford Hospital under Dr. Mani Menon, where these techniques were once pioneered. He has served as the Director of Robotic Surgery at Mercy St Vincent for almost two decades and one of the highest volume robotic surgeons in the region.</p><p id=\"\">Dr. Baig treats all adult urologic conditions including prostate disorders, stone disease, and incontinence. He is especially passionate about urologic cancer and robotic surgery. He has performed well over 2500 robotic surgeries for all types of urologic cancer (prostate, kidney, bladder, adrenal, ureter). In addition, Dr. Baig prides himself in his ability in teaching complex surgical techniques, having trained the majority of Urologists in the greater Toledo area over the last twenty years.</p><p id=\"\">Most importantly, Dr. Baig holds himself to the highest standards of quality and strives to provide his patients the best possible outcomes. His caring and compassionate personality allows him to be uniquely sensitive to the needs of his patients, especially those facing serious illnesses such as cancer. He aims to provide his patients the type of care that he would want for himself and his family.</p><p id=\"\">Dr. Baig is married with three children and enjoys biking, basketball, travelling and spending time with family. He is the president of Romius Urology and remains dedicated to offering his services to our Northwest Ohio community.</p>",
+  "image": "d1b24b7ca5ed-68e723b008c752fb2888368d__90A5991_copy.webp",
+  "thumbnail": "acffbe5ff006-69228590227be2cec8173b38_BaigM-316x316.webp",
+  "order": 0,
+  "education": {
+    "Bachelor's": "University of Michigan 1997",
+    "MD Degree": "University of Toledo College of Medicine 2001",
+    "Internship": "University of Toledo Department of Surgery 2001-2003",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2007",
+    "Certifications": "American Board of Urology 2009",
+    "Clinical Interests": "Robotic-assisted surgery, Urologic Cancers, Robotic Prostatectomy, Robotic Nephrectomy, Robotic Partial Nephrectomy, Robotic Nephroureterectomy, Robotic Cystectomy, Robotic Pyeloplasty, Robotic Ureteral Reconstruction"
+  },
+  "homeImage": "/images/baig-backdrop.webp"
+}

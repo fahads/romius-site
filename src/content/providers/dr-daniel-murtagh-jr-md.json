@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Daniel Murtagh Jr. MD",
+  "slug": "dr-daniel-murtagh-jr-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "678145331c30f0c9b4605523",
+  "updatedOn": "Sun Nov 23 2025 03:54:02 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Daniel Murtagh Jr. was born in Toledo, Ohio.&nbsp; He attended St Francis De Sales High School in Toledo before attending Miami University of Ohio, and received a Bachelor of Science.&nbsp; He then completed his Masters degree of Science and Biomedical Sciences at the University of Toledo. He was able to stay in Toledo to obtain his medical degree for four years, and then continued for six years of training in Urology and Renal Transplantation at the University of Toledo Medical Center.</p><p id=\"\">Dr. Murtagh Jr. treats a wide variety of urologic disorders.&nbsp; He practices compassionate medicine and tailors his practice to the needs of each patient.&nbsp; Part of his practice is dedicated to medical education and is involved with teaching residents.&nbsp;&nbsp;</p><p id=\"\">Dr. Murtagh Jr. enjoys spending time with his wife and three children, fishing, hunting, biking, golfing, and traveling.</p>",
+  "image": "69af2b342006-68e724d587a21b121d468ad1__90A6002_crop.webp",
+  "thumbnail": "4feea2bbd621-692285552e00d6edb68ea711_murtagh-fixed.webp",
+  "order": 3,
+  "education": {
+    "Bachelor's": "Miami University of Ohio 2007",
+    "MD Degree": "University of Toledo College of Medicine 2012",
+    "Internship": "General Surgery - University of Toledo Department of Surgery 2012-2014",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2018",
+    "Certifications": "American Board of Urology 2020",
+    "Clinical Interests": "Robotic-assisted surgery, Prostate diseases, Kidney Stones including complex stone disease, Urologic Cancers, Minimally Invasive Prostate and Kidney Surgery, Female Urology, Incontinence, Erectile Dysfunction."
+  },
+  "homeImage": "/images/murtagh-crop.webp"
+}

@@ -1,0 +1,4 @@
+/* Preserve Webflow's existing reset while allowing Tailwind utilities for new components. */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

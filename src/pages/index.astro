@@ -1,0 +1,8 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { renderPage } from '../lib/site';
+const page=await renderPage('index');
+---
+<SiteLayout title={page.title} description={page.description}>
+  <Fragment set:html={page.html} />
+</SiteLayout>

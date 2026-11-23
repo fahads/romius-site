@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Hesham Mostafa MD",
+  "slug": "dr-hesham-mostafa-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "678144f2cb4db46819a57d78",
+  "updatedOn": "Sun Nov 23 2025 03:54:23 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Hesham Mostafa was born in Cleveland, Ohio.&nbsp; He spent his childhood in both Cleveland and Toledo, Ohio. He attended The Ohio State University and received a Bachelor of Science in Microbiology and was awarded Magna Cum Laude and was on the Dean’s List all four years.</p><p id=\"\">After completing his undergraduate studies at The Ohio State University, he went to the University Of Cincinnati College Of Medicine. He recently completed his residency in Urology at the University Of Toledo Medical College. He specializes in general urology, minimally invasive and advanced robotic surgeries. Dr. Mostafa holds an appointment as Chair of Robotic Surgery at a tertiary referral center and is a regional leader in Urologic Robotic Surgery.</p><p id=\"\">Dr. Mostafa has a special interest in global health care. In the past he has done medical mission trips in the West Indies and West Africa. During these trips he and his team were able to perform surgeries varying from reconstruction, kidney transplantation, oncologic surgeries, and pediatric surgery. He enjoys sports, mountain biking, running, traveling and trying new cuisines.</p>",
+  "image": "592a47f01b5a-68e722d0f2def17941c6cb37_IMG_4469_crop.webp",
+  "thumbnail": "78e7f74a79af-6922856d671c1883a65ce5f4_MostafaH-316x316.webp",
+  "order": 5,
+  "education": {
+    "Bachelor's": "The Ohio State University 2007",
+    "MD Degree": "University of Cincinnati College of Medicine 2011",
+    "Internship": "General Surgery - University of Toledo Department of Surgery 2011-2013",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2017",
+    "Certifications": "American Board of Urology 2019",
+    "Clinical Interests": "Robotic-assisted surgery, Urologic Cancers, Robotic Prostatectomy, Robotic Nephrectomy, Robotic Partial Nephrectomy, Robotic Nephroureterectomy, Robotic Cystectomy, Robotic Pyeloplasty, Robotic Ureteral Reconstruction"
+  },
+  "homeImage": "/images/hesham-backdrop.webp"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health St Vincent",
+  "slug": "mercy-health-st-vincent",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677604e04ec3d475d4038c6f",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "2213 Cherry St, Toledo",
+  "phone": "(419) 251-3232",
+  "website": "https://www.mercy.com/locations/hospitals/toledo/mercy-health-st-vincent-medical-center",
+  "mapUrl": "https://www.google.com/maps/dir//2213+Cherry+St,+Toledo,+OH+43608/@41.6684273,-83.6250519,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883b812f6fffffff:0x220ea58441652400!2m2!1d-83.5426511!2d41.6684567?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 0,
+  "city": "Downtown Toledo",
+  "image": "50fd685ccb17-688560786ef73f6e48bc7283_stvincent.webp"
+}

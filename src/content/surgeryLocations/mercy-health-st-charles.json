@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health St Charles",
+  "slug": "mercy-health-st-charles",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677605c900dfd35a2f43b80e",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "2600 Navarre Ave, Oregon",
+  "phone": "(419)-696-7200",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//2600+Navarre+Ave,+Oregon,+OH+43616/@41.6354202,-83.5674363,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883b84405d65479b:0x9f44cbec09eec559!2m2!1d-83.4850355!2d41.6354496?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 5,
+  "city": "Oregon",
+  "image": "ec33daedcaea-68868d0c0584072faaea7f8c_stcharles.webp"
+}

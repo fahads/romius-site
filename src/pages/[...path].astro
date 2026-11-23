@@ -1,0 +1,17 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { content,renderPage } from '../lib/site';
+export async function getStaticPaths() {
+  const data=await content();
+  return [
+    ...['about','clinic-locations','surgery-locations','providers','contact','patient-resources','uropharm'].map(name=>({params:{path:name},props:{name,entry:undefined}})),
+    ...data.providers.map(entry=>({params:{path:`providers/${entry.data.slug}`},props:{name:'detail_providers',entry}})),
+    ...data.conditions.map(entry=>({params:{path:`condition/${entry.data.slug}`},props:{name:'detail_condition',entry}}))
+  ];
+}
+const {name,entry}=Astro.props;
+const page=await renderPage(name,entry);
+---
+<SiteLayout standalone={name==='uropharm'} title={page.title} description={page.description}>
+  <Fragment set:html={page.html} />
+</SiteLayout>

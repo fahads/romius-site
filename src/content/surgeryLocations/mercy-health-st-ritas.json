@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health St. Rita's",
+  "slug": "mercy-health-st-ritas",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677608a1b5626ec762794fea",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "730 W Market St, Lima",
+  "phone": "(419)-227-3361",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//730+W+Market+St,+Lima,+OH+45801/@40.7409062,-84.2008799,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883ef2173a74917b:0xce5c0c86ebe8b2bc!2m2!1d-84.118479!2d40.7409355?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": false,
+  "metro": false,
+  "order": 12,
+  "city": "Lima",
+  "image": "9defa103d51d-68869ecdf795be11a7dafefe_strita.webp"
+}

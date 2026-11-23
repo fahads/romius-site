@@ -1,0 +1,18 @@
+{
+  "name": "Wood County Hospital",
+  "slug": "wood-county-hospital",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677606187172d5876d8a74d8",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "950 W Wooster St, Bowling Green",
+  "phone": "(419)-354-8900",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//950+W+Wooster+St,+Bowling+Green,+OH+43402/@41.3755064,-83.7482599,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c0b901a2cfe95:0x2baab26bb13288f8!2m2!1d-83.6658591!2d41.3755358?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 7,
+  "city": "Bowling Green",
+  "image": "2415ccdd04cf-68869277b605f4500825ddfb_woodCounty.webp"
+}

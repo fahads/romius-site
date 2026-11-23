@@ -1,0 +1,23 @@
+{
+  "name": "Kali Stidham",
+  "slug": "kali-stidham",
+  "draft": false,
+  "archived": false,
+  "webflowId": "69225f43f88e6d7648d8e894",
+  "updatedOn": "Sun Nov 23 2025 04:04:10 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 04:12:51 GMT+0000 (Coordinated Universal Time)",
+  "type": "APRN-CNP",
+  "location": "",
+  "bio": "",
+  "image": "",
+  "thumbnail": "2ef1e401f7ee-692287b8336d232181a0d2e8_kali.webp",
+  "order": 11,
+  "education": {
+    "Bachelor's": "",
+    "MD Degree": "",
+    "Internship": "",
+    "Residency": "",
+    "Certifications": "",
+    "Clinical Interests": ""
+  }
+}
