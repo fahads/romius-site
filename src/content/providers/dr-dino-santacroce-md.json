@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Dino Santacroce MD",
+  "slug": "dr-dino-santacroce-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "6781457bc76ba467486d8bc6",
+  "updatedOn": "Sun Nov 23 2025 03:53:38 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Dino Santacroce is a native of Toledo, Ohio and a graduate of St. Francis DeSales High School. Following this he attended The Ohio State University for his bachelor degree and the University of Toledo for his medical doctorate. He then continued at The University of Toledo Medical Center for an additional six years of training in Urology and Renal Transplantation.</p><p id=\"\">Dr. Santacroce is devoted to treating all Urologic diseases, focusing on minimally invasive and robotic surgery. He obtained advanced training in robotic prostate, kidney, and bladder surgery during his six years of residency. He is passionate about treating benign and cancerous urologic diseases in all patients. In his practice, he utilizes both state-of-the-art and traditional treatments of Urologic disorders.</p><p id=\"\">Dr. Santacroce has distinguished himself not only as an exemplary clinician, but also has been recognized for other Urologic achievements as well. He served on the board of the Ohio Urologic Society from 2009-2011 and has presented his research at multiple Urologic meetings at the local, state, and national levels. In addition, he was recognized for achieving the highest score in the nation on the annual Urology In-Service examination while in training.</p><p id=\"\">Dr. Santacroce enjoys running, playing golf, and spending time with his family here in Toledo. He is excited about keeping his advanced training in Northwestern Ohio and providing cutting-edge Urologic care to the people of his hometown.</p>",
+  "image": "0f8a3e3dcbbc-68e708889f221201dcaad263__90A6038.webp",
+  "thumbnail": "94523651455a-6922853651c15a2c23be9aac_SantacroceD-316x316.webp",
+  "order": 2,
+  "education": {
+    "Bachelor's": "The Ohio State University 2001",
+    "MD Degree": "University of Toledo College of Medicine 2005",
+    "Internship": "General Surgery - University of Toledo Department of Surgery 2005-2007",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2011",
+    "Certifications": "American Board of Urology 2012",
+    "Clinical Interests": "Laparoscopy, Robotic-assisted surgery, Prostate Diseases, Kidney Stones, Urologic Cancers, Minimally Invasive Prostate and Kidney Surgery, Female Urology, Incontinence, Erectile Dysfunction.​"
+  },
+  "homeImage": "/images/dino-backdrop.webp"
+}

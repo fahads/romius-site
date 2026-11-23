@@ -1,0 +1,62 @@
+{
+  "index": {
+    "title": "RoMIUS Urology",
+    "description": "",
+    "image": "https://uploads-ssl.webflow.com/65f80bd605784d8921fd6bca/65fbd68ebc1d9dd0f7e79133_search-result-preview.webp"
+  },
+  "about": {
+    "title": "About",
+    "description": "",
+    "image": ""
+  },
+  "clinic-locations": {
+    "title": "Clinic Locations",
+    "description": "",
+    "image": ""
+  },
+  "surgery-locations": {
+    "title": "surgery-locations",
+    "description": "",
+    "image": ""
+  },
+  "providers": {
+    "title": "Providers",
+    "description": "",
+    "image": ""
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "",
+    "image": ""
+  },
+  "patient-resources": {
+    "title": "Patient Resources",
+    "description": "",
+    "image": ""
+  },
+  "uropharm": {
+    "title": "UroPharm \u2014 Urology Specialty Pharmacy",
+    "description": "UroPharm is a specialty pharmacy built entirely around urologic care \u2014 expert medication management, prior-authorization support, and discreet delivery.",
+    "image": ""
+  },
+  "clinic-information": {
+    "title": "Clinic Information",
+    "description": "",
+    "image": ""
+  },
+  "404": {
+    "title": "Not Found",
+    "description": "",
+    "image": ""
+  },
+  "detail_providers": {
+    "title": "Romius Beta v2",
+    "description": "",
+    "image": ""
+  },
+  "detail_condition": {
+    "title": "Romius Beta v2",
+    "description": "",
+    "image": ""
+  }
+}

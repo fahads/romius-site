@@ -1,0 +1,59 @@
+---
+import { shared } from '../lib/site';
+import '../styles/global.css';
+interface Props { title: string; description?: string; standalone?: boolean; }
+const {title,description='',standalone=false} = Astro.props;
+const path=Astro.url.pathname.replace(/\/$/,'') || '/';
+const canonical=new URL(path,Astro.site).href;
+const allowIndexing=import.meta.env.PUBLIC_ALLOW_INDEXING === 'true';
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  {description && <meta name="description" content={description} />}
+  <link rel="canonical" href={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  {description && <meta property="og:description" content={description} />}
+  <meta property="og:image" content={new URL('/images/search-result-preview.webp',Astro.site).href} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:image" content={new URL('/images/search-result-preview.webp',Astro.site).href} />
+  {!allowIndexing && <meta name="robots" content="noindex, nofollow" />}
+  <link rel="icon" href="/images/favicon.png" type="image/png" />
+  <link rel="apple-touch-icon" href="/images/webclip-180.png" />
+  <link rel="stylesheet" href="/css/normalize.css" />
+  <link rel="stylesheet" href="/css/webflow.css" />
+  <link rel="stylesheet" href="/css/romius-beta-v2.webflow.css" />
+  <link rel="stylesheet" href="/css/montserrat.css" />
+  <link rel="stylesheet" href="/css/migration.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="page-wrapper">
+    {!standalone && <Fragment set:html={shared('header',path)} />}
+    <div id="main-content" tabindex="-1"><slot /></div>
+    {!standalone && <Fragment set:html={shared('contact',path)} />}
+    {!standalone && <Fragment set:html={shared('footer',path)} />}
+  </div>
+  <script>
+    const toggle=document.querySelector<HTMLButtonElement>('.mobile-menu-toggle');
+    const menu=document.getElementById('mobile-navigation');
+    function closeMenu() {toggle?.setAttribute('aria-expanded','false');menu?.classList.remove('is-open');}
+    toggle?.addEventListener('click',()=>{
+      const open=toggle.getAttribute('aria-expanded')!=='true';
+      toggle.setAttribute('aria-expanded',String(open));menu?.classList.toggle('is-open',open);
+    });
+    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMenu();});
+    menu?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
+    const dialog=document.querySelector<HTMLDialogElement>('.contact-dialog');
+    document.querySelector('.contact-slide-button')?.addEventListener('click',e=>{e.preventDefault();dialog?.showModal();});
+    dialog?.querySelector('.contact-close')?.addEventListener('click',()=>dialog.close());
+    dialog?.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
+  </script>
+</body>
+</html>

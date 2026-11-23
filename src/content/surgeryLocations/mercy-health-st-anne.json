@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health St Anne",
+  "slug": "mercy-health-st-anne",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677603907844b4036141fb2e",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "3404 W Sylvania Ave, Toledo",
+  "phone": "(419) 407-2663",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//3404+W+Sylvania+Ave,+Toledo,+OH+43623/@41.6935263,-83.7081816,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c7f1a99329527:0x5bdafac0de48a5ef!2m2!1d-83.6257808!2d41.6935557?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 3,
+  "city": "Toledo",
+  "image": "303592c13fbc-68868fe8f384dd4d61fc622b_stanne.webp"
+}

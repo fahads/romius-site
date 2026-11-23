@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health Defiance",
+  "slug": "mercy-health-defiance",
+  "draft": false,
+  "archived": false,
+  "webflowId": "6776087a1a2e12bc8cb02b38",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "1404 E 2nd St, Defiance",
+  "phone": "(419) 782-8444",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//1404+E+2nd+St,+Defiance,+OH+43512/@41.2831864,-84.4226449,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883dd21638737d1d:0xebf2219e8c6c06b3!2m2!1d-84.3402441!2d41.2832158?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 11,
+  "city": "Defiance",
+  "image": "606f99dc810f-6886961c49596497c6903ae5_mercyDefiance.webp"
+}

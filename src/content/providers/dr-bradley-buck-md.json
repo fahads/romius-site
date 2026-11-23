@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Bradley Buck MD",
+  "slug": "dr-bradley-buck-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "678144176dfde41c2f2aa2ee",
+  "updatedOn": "Sun Nov 23 2025 03:54:47 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Bradley Buck was born and raised in Toledo, Ohio. He attended Maumee Valley Country Day School for K-8, and graduated from Saint John’s Jesuit High School. At Saint John's Dr. Buck excelled in both academics and athletics. His efforts afforded him admission to the University of Michigan - Ann Arbor, and earned him varsity letters in both soccer and hockey.</p><p id=\"\">At the University of Michigan Dr. Buck was involved in a multitude of biomedical research. He authored several papers, meeting abstracts, and a book chapter. In addition he was named director of a laboratory at the medical school, and graduated with high honors in biology. Following graduation he obtained a masters degree from Georgetown University in physiology and biophysics before making his way back home to Toledo for medical school and residency.</p><p id=\"\">To this day Dr. Buck continues to excel. He is the recent author of several urology publications, and a popular textbook for aspiring urology medical students. As a chief resident he scored in the top 1% of the nation on his yearly in-training examination, and was recently recognized as having one of the top scores on his urology board exam. He obtained advanced training in urethral reconstruction surgery post residency with Dr. Guido Barbagli in Italy. Outside the office Dr. Buck enjoys spending time with his wife Molly and two children. They are avid travelers and cyclists.</p>",
+  "image": "387739706d62-68e7210ad36243f2286cf881__90A5900_crop.webp",
+  "thumbnail": "519f10ed71c5-692285840207527bca82018d_BuckB-316x316.webp",
+  "order": 6,
+  "education": {
+    "Bachelor's": "University of Michigan 2006",
+    "MD Degree": "University of Toledo College of Medicine 2012",
+    "Internship": "General Surgery - University of Toledo Department of Surgery 2012-2014",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2018",
+    "Certifications": "American Board of Urology 2020",
+    "Clinical Interests": "Robotic-Assisted Urologic Surgery, Complex Urethral Reconstruction, Kidney Stone Management and Prevention, Female Voiding Dysfunction and Incontinence, Complex Prostate Cancer Care, and Management of Benign Prostate Enlargement, Restoration of male sexual health and male incontinence."
+  },
+  "homeImage": "/images/buck-backdrop.webp"
+}

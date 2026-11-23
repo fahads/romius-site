@@ -1,0 +1,18 @@
+{
+  "name": "Magruder Hospital",
+  "slug": "magruder-hospital",
+  "draft": false,
+  "archived": false,
+  "webflowId": "67760811b3b19c42ccebf098",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "615 Fulton St, Port Clinton",
+  "phone": "(419)-734-3131",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//615+Fulton+St,+Port+Clinton,+OH+43452/@41.5055432,-83.015526,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883bb2e1ac4c94c7:0xd70d7ce19dd2bfe3!2m2!1d-82.9331252!2d41.5055726?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 8,
+  "city": "Port Clinton",
+  "image": "cb7642f0d93b-688692ff83025a2f2074bd6d_magruder.webp"
+}

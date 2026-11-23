@@ -1,0 +1,18 @@
+{
+  "name": "Paulding County Hospital",
+  "slug": "paulding-county-hospital",
+  "draft": false,
+  "archived": false,
+  "webflowId": "6776083011093ffdd6451e6f",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "1035 W Wayne St, Paulding",
+  "phone": "(419)-399-4080",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//1035+W+Wayne+St,+Paulding,+OH+45879/@41.1348042,-84.6839202,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883e754a728fa9cf:0xcf1cf5f53dc231ae!2m2!1d-84.6015194!2d41.1348336?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": false,
+  "order": 9,
+  "city": "Paulding",
+  "image": "b6a6cc33b9cb-68869e588f1b6e4a62d46ff5_paulding.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Freddie P Stewart",
+  "slug": "freddie-p-stewart",
+  "draft": false,
+  "archived": false,
+  "webflowId": "692260d4a42b0a184f1140fa",
+  "updatedOn": "Sun Nov 23 2025 04:19:33 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 04:56:51 GMT+0000 (Coordinated Universal Time)",
+  "type": "APRN-CNP",
+  "location": "",
+  "bio": "",
+  "image": "",
+  "thumbnail": "aa762e054af7-69228b51ffe821fcd62d781e_Fred.webp",
+  "order": 21,
+  "education": {
+    "Bachelor's": "",
+    "MD Degree": "",
+    "Internship": "",
+    "Residency": "",
+    "Certifications": "",
+    "Clinical Interests": ""
+  }
+}

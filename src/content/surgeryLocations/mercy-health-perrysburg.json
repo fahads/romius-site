@@ -1,0 +1,18 @@
+{
+  "name": "Mercy Health Perrysburg",
+  "slug": "mercy-health-perrysburg",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677605ed958381cd8486a47f",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "12623 Eckel Junction Rd, Perrysburg",
+  "phone": "(567)-368-1000",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//12623+Eckel+Junction+Rd,+Perrysburg,+OH+43551/@41.53513,-83.7203612,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c76f9b3a289b9:0x8aa5bab447ba4039!2m2!1d-83.6379604!2d41.5351594?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 6,
+  "city": "Perrysburg",
+  "image": "07915ffec5b3-688690880007bdc0d6bc0187_mercyPerrysburg.webp"
+}

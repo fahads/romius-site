@@ -1,0 +1,23 @@
+{
+  "name": "Alexandria Swaney",
+  "slug": "alexandria-swaney",
+  "draft": false,
+  "archived": false,
+  "webflowId": "692260e479ff39feeb051390",
+  "updatedOn": "Sun Nov 23 2025 04:20:10 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 04:56:51 GMT+0000 (Coordinated Universal Time)",
+  "type": "APRN-CNP",
+  "location": "",
+  "bio": "",
+  "image": "",
+  "thumbnail": "6943f4c6ae68-69228b760e6c6c565eb9c912_swaney-alexandria-1487434718.webp",
+  "order": 22,
+  "education": {
+    "Bachelor's": "",
+    "MD Degree": "",
+    "Internship": "",
+    "Residency": "",
+    "Certifications": "",
+    "Clinical Interests": ""
+  }
+}

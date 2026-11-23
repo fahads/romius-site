@@ -1,0 +1,18 @@
+{
+  "name": "Wilson Health",
+  "slug": "wilson-health",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677608de7844b40361449ea1",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "915 Michigan St, Sidney",
+  "phone": "(937) 498-2311",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//915+Michigan+St,+Sidney,+OH+45365/@40.2869432,-84.2528152,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883f0fa4b67c229f:0x575d7b14bf673a23!2m2!1d-84.1704143!2d40.2869724?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": false,
+  "metro": false,
+  "order": 14,
+  "city": "Sidney",
+  "image": "e7a3a073d613-688678e13122161d64cf27ac_wilson.webp"
+}

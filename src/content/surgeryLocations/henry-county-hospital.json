@@ -1,0 +1,18 @@
+{
+  "name": "Henry County Hospital",
+  "slug": "henry-county-hospital",
+  "draft": false,
+  "archived": false,
+  "webflowId": "6776084ef9a4fdbc2129df77",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "1600 E Riverview Ave, Napoleon",
+  "phone": "(419) 592-4015",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//1600+E+Riverview+Ave,+Napoleon,+OH+43545/@41.4111634,-84.1702096,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c383316c94847:0x3b71a6a5364dc977!2m2!1d-84.0878088!2d41.4111928?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 10,
+  "city": "Napoleon",
+  "image": "f4f53fa59a73-6886960269e8f4233a78683b_napoleon.webp"
+}

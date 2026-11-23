@@ -1,0 +1,18 @@
+{
+  "name": "Surgery Center At Regency",
+  "slug": "surgery-center-at-regency-park",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677607e5c5fffbcc6de0cd68",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "2000 Regency Ct #101, Toledo",
+  "phone": "(419) 882-0003",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//2000+Regency+Ct+%23+101,+Toledo,+OH+43623/@41.7049567,-83.728166,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c7e580f64ef01:0x38407f9509aa98e8!2m2!1d-83.6457652!2d41.7049861?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 2,
+  "city": "Toledo",
+  "image": "1bc88611ac2c-68868ebfe86dfdfbedfcd760_regencyPark.webp"
+}

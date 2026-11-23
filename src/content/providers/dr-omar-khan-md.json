@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Omar Khan MD",
+  "slug": "dr-omar-khan-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "6781447d35f9a7f36c56e492",
+  "updatedOn": "Thu Jul 09 2026 23:02:34 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Thu Jul 09 2026 23:02:34 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p>Dr. Omar Khan is a native of Maumee, Ohio. He attended Maumee Valley Country Day School prior to attending the Ohio State University. He returned to Toledo to obtain his medical degree for four years and then continued for six years of training in Urology and Renal Transplantation at the University of Toledo Medical Center.&nbsp;</p><p>Dr. Khan treats a wide variety of urologic disorders. He is the medical director and holds leadership positions at several regional hospitals and has a passion for improving health care access in Northwest and West Central Ohio.&nbsp; Dr. Khan is also a dedicated educator who spends time teaching residents and advanced practice providers.&nbsp; He is married with two children and enjoys spending time with his family, in addition to travelling, basketball, and music.</p>",
+  "image": "e92531551a11-68e72018c402e3e95439f2a8__90A5922_crop.webp",
+  "thumbnail": "373c552b4cb5-692285787e1729586a56ac82_KhanO-1-316x316.webp",
+  "order": 4,
+  "education": {
+    "Bachelor's": "The Ohio State University 2007",
+    "MD Degree": "University of Toledo College of Medicine 2011",
+    "Internship": "General Surgery - University of Toledo Department of Surgery 2011-2013",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2017",
+    "Certifications": "American Board of Urology 2019",
+    "Clinical Interests": "Advanced Prostate Cancer, Minimally Invasive Surgery, Robotic Surgery, BPH/Voiding dysfunction, Kidney Stones, Rural Healthcare delivery, Healthcare Access"
+  },
+  "homeImage": "/images/omar-backdrop.webp"
+}

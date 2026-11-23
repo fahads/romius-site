@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Saleem Zafar MD",
+  "slug": "dr-saleem-zafar-md",
+  "draft": false,
+  "archived": false,
+  "webflowId": "677e1e8580a1f3b07de3f676",
+  "updatedOn": "Sun Nov 23 2025 03:55:14 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Sun Nov 23 2025 03:57:25 GMT+0000 (Coordinated Universal Time)",
+  "type": "Physician",
+  "location": "",
+  "bio": "<p id=\"\">Dr. Saleem Zafar is a native of Toledo, Ohio. He attended Maumee Valley Country Day School prior to attending the University of Chicago. He returned to Toledo to obtain his medical degree and then continued for an additional six years of training in Urology and Renal Transplantation at the University of Toledo Medical Center.</p><p id=\"\">Dr. Zafar is passionate about treating all urologic disorders with an emphasis on minimally invasive and robotic surgery. He obtained advanced training in robotic prostate, kidney, and bladder surgery at Henry Ford Hospital, where many robotic urologic procedures were pioneered. He enjoys treating benign and cancerous urologic diseases in both adults and children. He utilizes cutting-edge treatments whenever possible and traditional treatments when appropriate.</p><p id=\"\">Dr. Zafar has distinguished himself not only as an exemplary clinician, but also has won several awards for his research at the local, regional, and national levels. He has also been recognized by the University of Toledo as one of the best educators on campus by being awarded the Arnold P. Gold Humanism in Medicine Award three times. He also won the John D. Silbar Award, given by the American Urologic Association annually for \"outstanding qualities in clinical ability, high ethical and moral standards, compassion for patients, and outstanding bedside manner.\"</p><p id=\"\">​Dr. Zafar currently serves as the Chairman of the Surgery Department at Mercy St Vincent Medical Center.&nbsp; Additionally, he is the Director of the Laparoscopy, Simulation, and Robotics Center (LaSR) at Mercy St Vincent Hospital where he teaches and supervises the curriculum for simulation-based minimally invasive surgery for all surgical residents.&nbsp;&nbsp;</p><p id=\"\">Dr. Zafar is married and has two daughters. In addition to spending time with his family, he enjoys traveling, golfing, and running in his spare time.</p>",
+  "image": "084808d68b97-68e721e57ca7dc5918fafe1b__90A5905_crop.webp",
+  "thumbnail": "e9946baccbcd-6922859f021cdb241cc659e0_ZafarS-316x316.webp",
+  "order": 1,
+  "education": {
+    "Bachelor's": "University of Chicago 1997",
+    "MD Degree": "University of Toledo College of Medicine 2001",
+    "Internship": "Medical College of Ohio Department of Surgery 2002-2004",
+    "Residency": "University of Toledo Department of Urologic Surgery and Renal Transplantation 2008",
+    "Certifications": "American Board of Urology 2010",
+    "Clinical Interests": "Clinical Interests: Laparoscopy, Robotic-assisted surgery, Prostate diseases, Kidney stones, Urologic Cancers, Minimally Invasive Prostate and Kidney Surgery, Female Urology, Incontinence, Erectile Dysfunction."
+  },
+  "homeImage": "/images/saleem-backdrop.webp"
+}

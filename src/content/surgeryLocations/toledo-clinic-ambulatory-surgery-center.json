@@ -1,0 +1,18 @@
+{
+  "name": "Toledo Clinic Ambulatory",
+  "slug": "toledo-clinic-ambulatory-surgery-center",
+  "draft": false,
+  "archived": false,
+  "webflowId": "67760630b3b19c42cceb078e",
+  "updatedOn": "Wed Aug 13 2025 02:28:53 GMT+0000 (Coordinated Universal Time)",
+  "publishedOn": "Wed Aug 13 2025 02:52:41 GMT+0000 (Coordinated Universal Time)",
+  "address": "4235 Secor Rd Bldg 2, Toledo",
+  "phone": "(419) 479-5650",
+  "website": "",
+  "mapUrl": "https://www.google.com/maps/dir//First+Floor,+4235+Secor+Road+Building+Two,+Toledo,+OH+43623/@41.6956637,-83.7070951,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883c7faf18fe6d9f:0xcf56692518df8ec2!2m2!1d-83.6246943!2d41.6956931?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+  "northwest": true,
+  "metro": true,
+  "order": 1,
+  "city": "Toledo",
+  "image": "d7bfd134458c-68868e216aa97547b75192f6_toledoAmbulatory.webp"
+}
