@@ -69,6 +69,15 @@
   font-family:Montserrat,system-ui,sans-serif;font-weight:500;font-size:.8125rem;letter-spacing:.04em;
   text-decoration:underline;text-decoration-color:var(--up-line);text-underline-offset:.35em;text-decoration-thickness:1px;}
 .up-home:hover {color:var(--up-navy);text-decoration-color:currentColor;}
+/* Mobile emphasis: gold Call button (client request 2026-11-24). Text contrast on gold #c2912f:
+   navy #16284c 5.12:1, navy-deep #0e1b36 6.01:1. Label opacity must stay 1 (.85 blends to 4.14:1). */
+@media(max-width:767px){
+  .up-call {background:var(--up-gold);border-color:var(--up-gold);color:var(--up-navy);
+    min-height:3.75rem;font-size:1.125rem;box-shadow:0 8px 24px rgb(194 145 47 / .35);}
+  .up-call:hover,.up-call:active {background:var(--up-gold);border-color:var(--up-gold);color:var(--up-navy-deep);
+    box-shadow:0 10px 28px rgb(194 145 47 / .5);}
+  .up-call-label {opacity:1;}
+}
 @media(max-width:479px){
   .up-contact {flex-direction:column;gap:1.25rem;}
   .up-call {width:100%;padding-inline:1.25rem;}
