@@ -40,3 +40,37 @@
 .contact-dialog {background:var(--_global-colors--background-secondary);color:var(--_global-colors--text-inverse);}
 .contact-dialog .contact-slide-image-wrapper {min-height:260px;}
 .contact-dialog .contact-slide-image-wrapper img {max-height:none;height:300px;}
+/* UroPharm standalone coming-soon page. All rules are scoped to .up-* classes used only by /uropharm. */
+.up-page {--up-navy:#16284c;--up-navy-deep:#0e1b36;--up-ink:#3f4d6e;--up-gold:#c2912f;--up-line:#e4e7ee;
+  display:flex;flex-direction:column;min-height:100vh;min-height:100svh;background:#fff;color:var(--up-navy);
+  font-family:Satoshi,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.6;}
+.up-page::before {content:"";display:block;height:4px;flex:none;background:linear-gradient(90deg,var(--up-gold),var(--up-navy));}
+.up-page :focus-visible {outline:3px solid var(--up-navy);outline-offset:4px;border-radius:2px;}
+.up-main {flex:1 0 auto;display:flex;align-items:center;justify-content:center;padding:clamp(3rem,9vh,6rem) 1.25rem clamp(2.5rem,6vh,4rem);}
+.up-inner {display:flex;flex-direction:column;align-items:center;width:100%;max-width:40rem;text-align:center;}
+.up-logo {display:block;width:420px;max-width:82vw;height:auto;margin:0 0 clamp(2.25rem,6vh,3.5rem);}
+.up-title {margin:0;font-family:"Frank Ruhl Libre",Georgia,"Times New Roman",serif;font-weight:300;
+  font-size:clamp(2.75rem,7vw + 1rem,5.25rem);line-height:1.02;letter-spacing:-.02em;color:var(--up-navy);}
+.up-rule {width:3.5rem;height:3px;margin:1.75rem 0;background:var(--up-gold);border-radius:2px;}
+.up-text {max-width:32rem;margin:0;font-size:clamp(1.0625rem,.6vw + .95rem,1.25rem);line-height:1.65;color:var(--up-ink);text-wrap:pretty;}
+.up-contact {display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:1rem 2rem;
+  width:100%;margin-top:clamp(2.25rem,6vh,3rem);padding-top:clamp(2rem,5vh,2.5rem);border-top:1px solid var(--up-line);}
+.up-call {display:inline-flex;align-items:center;justify-content:center;gap:.6em;min-height:3.5rem;padding:.875rem 2rem;
+  background:var(--up-navy);color:#fff;border:2px solid var(--up-navy);border-radius:999px;text-decoration:none;
+  font-family:Montserrat,system-ui,sans-serif;font-weight:600;font-size:1.0625rem;line-height:1.2;letter-spacing:.01em;
+  font-variant-numeric:tabular-nums;white-space:nowrap;touch-action:manipulation;}
+.up-call:hover {background:var(--up-navy-deep);border-color:var(--up-navy-deep);color:#fff;}
+.up-call-label {font-weight:500;font-size:.75em;text-transform:uppercase;letter-spacing:.14em;opacity:.85;}
+.up-fax {display:inline-flex;align-items:baseline;gap:.6em;margin:0;font-family:Montserrat,system-ui,sans-serif;
+  font-weight:500;font-size:1.0625rem;color:var(--up-navy);font-variant-numeric:tabular-nums;}
+.up-fax-label {font-size:.75em;text-transform:uppercase;letter-spacing:.14em;color:var(--up-ink);}
+.up-foot {flex:none;display:flex;justify-content:center;padding:1.25rem 1.25rem 1.75rem;}
+.up-home {display:inline-flex;align-items:center;gap:.5em;min-height:44px;padding:0 .25rem;color:var(--up-ink);
+  font-family:Montserrat,system-ui,sans-serif;font-weight:500;font-size:.8125rem;letter-spacing:.04em;
+  text-decoration:underline;text-decoration-color:var(--up-line);text-underline-offset:.35em;text-decoration-thickness:1px;}
+.up-home:hover {color:var(--up-navy);text-decoration-color:currentColor;}
+@media(max-width:479px){
+  .up-contact {flex-direction:column;gap:1.25rem;}
+  .up-call {width:100%;padding-inline:1.25rem;}
+}
+@media(forced-colors:active){.up-call{border-color:ButtonText;}.up-page::before{background:CanvasText;}}
