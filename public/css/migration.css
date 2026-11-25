@@ -83,6 +83,12 @@
   .up-rule {margin:2rem 0;}
   .up-contact {margin-top:3rem;padding-top:2.5rem;}
   .up-foot {padding:1.5rem 1.5rem 2rem;}
+  /* Mobile tap target: pill-style footer homepage link (client request 2026-11-25). */
+  .up-home {min-height:3rem;padding:.75rem 1.25rem;font-size:.9375rem;line-height:1.2;
+    border:1px solid var(--up-line);border-radius:999px;text-decoration:none;touch-action:manipulation;}
+  .up-home:hover,.up-home:active {color:var(--up-navy);border-color:var(--up-navy);}
+  .up-home:active {background:#f4f6fa;}
+  .up-page .up-home:focus-visible {border-color:var(--up-navy);border-radius:999px;}
 }
 @media(max-width:479px){
   .up-contact {flex-direction:column;gap:1.5rem;}
