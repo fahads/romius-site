@@ -89,6 +89,9 @@
   .up-home:hover,.up-home:active {color:var(--up-navy);border-color:var(--up-navy);}
   .up-home:active {background:#f4f6fa;}
   .up-page .up-home:focus-visible {border-color:var(--up-navy);border-radius:999px;}
+  /* Mobile readability: larger, firmer fax number; text no larger than Call button (client request 2026-11-26). */
+  .up-fax {font-size:1.125rem;font-weight:600;letter-spacing:.01em;}
+  .up-fax-label {color:var(--up-navy);}
 }
 @media(max-width:479px){
   .up-contact {flex-direction:column;gap:1.5rem;}
