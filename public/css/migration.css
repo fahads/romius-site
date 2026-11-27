@@ -50,7 +50,8 @@
 .up-inner {display:flex;flex-direction:column;align-items:center;width:100%;max-width:40rem;text-align:center;}
 .up-logo {display:block;width:420px;max-width:82vw;height:auto;margin:0 0 clamp(2.25rem,6vh,3.5rem);}
 .up-title {margin:0;font-family:"Frank Ruhl Libre",Georgia,"Times New Roman",serif;font-weight:300;
-  font-size:clamp(2.75rem,7vw + 1rem,5.25rem);line-height:1.02;letter-spacing:-.02em;color:var(--up-navy);}
+  font-size:clamp(2rem,4vw + 1rem,3.25rem);line-height:1.12;letter-spacing:-.02em;color:var(--up-navy);
+  text-wrap:balance;}
 .up-rule {width:3.5rem;height:3px;margin:1.75rem 0;background:var(--up-gold);border-radius:2px;}
 .up-text {max-width:32rem;margin:0;font-size:clamp(1.0625rem,.6vw + .95rem,1.25rem);line-height:1.65;color:var(--up-ink);text-wrap:pretty;}
 .up-contact {display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:1rem 2rem;
